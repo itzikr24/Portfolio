@@ -33,7 +33,8 @@ body {
 	line-height: 1;
 }
 p{
-	color:black;
+	color: black;
+		font-weight: 700;
 }
 
 ol, ul {
@@ -124,7 +125,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #777;
+		color: black;
 		font-weight: 700;
 	}
 
@@ -137,7 +138,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
+		color: #4acaa8;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
