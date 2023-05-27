@@ -2324,7 +2324,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		@media screen and (max-width: 1480px) {
+		@media screen and (max-width: 480px) {
 
 			ul.actions:not(.fixed) {
 				-moz-flex-direction: column;
@@ -2876,7 +2876,7 @@ input, select, textarea {
 
 /* XLarge */
 
-	@media screen and (max-width: 2680px) {
+	@media screen and (max-width: 1680px) {
 
 		/* Basic */
 
@@ -2914,7 +2914,7 @@ input, select, textarea {
 
 /* Large */
 
-	@media screen and (max-width: 2280px) {
+	@media screen and (max-width: 1280px) {
 
 		/* Basic */
 
@@ -2942,7 +2942,7 @@ input, select, textarea {
 		display: none;
 	}
 
-	@media screen and (max-width: 2024px) {
+	@media screen and (max-width: 1024px) {
 
 		/* Basic */
 
@@ -3112,7 +3112,7 @@ input, select, textarea {
 
 /* Small */
 
-	@media screen and (max-width: 1000px) {
+	@media screen and (max-width: 400px) {
 
 		/* Basic */
 
@@ -3257,12 +3257,12 @@ input, select, textarea {
 
 /* XSmall */
 
-	@media screen and (max-width: 1000px) {
+	@media screen and (max-width: 400px) {
 
 		/* Basic */
 
 			html, body {
-				min-width: 1000px;
+				min-width: 100px;
 			}
 
 			body, input, select, textarea {
@@ -3287,7 +3287,7 @@ input, select, textarea {
 					}
 
 					ul.actions li > * {
-						width: 1000%;
+						width: 100%;
 						margin: 0 !important;
 					}
 
