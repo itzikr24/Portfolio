@@ -3287,7 +3287,7 @@ input, select, textarea {
 					}
 
 					ul.actions li > * {
-						width: 100%;
+						width: 1000%;
 						margin: 0 !important;
 					}
 
