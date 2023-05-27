@@ -82,7 +82,7 @@ input, select, textarea {
 
 	html {
 		box-sizing:inherit;
-		
+		box-sizing: border-box;
 	}
 
 	*, *:before, *:after {
@@ -91,7 +91,7 @@ input, select, textarea {
 
 	body {
 		background: #fff;
-		
+		box-sizing: border-box;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
