@@ -3318,3 +3318,12 @@ input, select, textarea {
 			}
 
 	}
+
+
+@media only screen and (max-width: 400px){
+	.card{
+	width 90%;
+		height:90%
+	}
+}
+		
