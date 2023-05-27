@@ -57,6 +57,8 @@ table {
 
 body {
 	-webkit-text-size-adjust: none;
+	min-height:100vh;
+	border:5px dashed red;
 }
 
 mark {
@@ -3260,12 +3262,12 @@ input, select, textarea {
 /* XSmall */
 
 
-	@media screen and (max-width: 400px) {
+	@media screen and (max-width: 480px) {
 
 		/* Basic */
 
 			html, body {
-				min-width: 1500x;
+				min-width: 320x;
 			}
 
 			body, input, select, textarea {
