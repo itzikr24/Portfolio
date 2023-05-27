@@ -3259,12 +3259,13 @@ input, select, textarea {
 
 /* XSmall */
 
-	@media screen and (max-width: 2000px) {
+
+	@media screen and (max-width: 400px) {
 
 		/* Basic */
 
 			html, body {
-				min-width: 320x;
+				min-width: 1500x;
 			}
 
 			body, input, select, textarea {
