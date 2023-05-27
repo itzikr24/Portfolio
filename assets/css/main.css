@@ -79,7 +79,7 @@ input, select, textarea {
 /* Basic */
 
 	html {
-		box-sizing: border-box;
+		box-sizing:inherit;
 	}
 
 	*, *:before, *:after {
@@ -483,7 +483,7 @@ input, select, textarea {
 					padding-top: 4em;
 				}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width: 4000px) {
 
 			.row {
 				display: flex;
