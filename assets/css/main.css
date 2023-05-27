@@ -3320,10 +3320,10 @@ input, select, textarea {
 	}
 
 
-@media only screen and (max-width: 1000px){
+@media only screen and (max-width: 2000px){
 	.card{
 	
-	height:90%
+	height:50%
 	}
 }
 		
