@@ -3257,7 +3257,7 @@ input, select, textarea {
 
 /* XSmall */
 
-	@media screen and (max-width: 400px) {
+	@media screen and (max-width: 2000px) {
 
 		/* Basic */
 
