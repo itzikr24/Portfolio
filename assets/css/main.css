@@ -3112,7 +3112,7 @@ input, select, textarea {
 
 /* Small */
 
-	@media screen and (max-width: 400px) {
+	@media screen and (max-width: 735px) {
 
 		/* Basic */
 
@@ -3262,7 +3262,7 @@ input, select, textarea {
 		/* Basic */
 
 			html, body {
-				min-width: 100px;
+				min-width: 320x;
 			}
 
 			body, input, select, textarea {
